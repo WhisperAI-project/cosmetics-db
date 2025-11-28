@@ -1,0 +1,16 @@
+﻿Id;ProductName;Brand;Manufacturer;Category;Price;Shade;SkinType;Stock;ExpiryDate;CreatedAt
+1;Liquid Foundation;GlowMe;GlowMe Cosmetics;Foundation;249;Beige 120;Normal/Dry;180;2026-01-01;2024-03-10
+2;Matte Lipstick;LushColor;LushColor AB;Lipstick;129;Ruby Red;All;250;2027-03-12;2024-03-15
+3;Compact Powder;PureSkin;PureSkin Labs;Powder;199;Soft Sand;Oily;140;2026-10-05;2024-03-18
+4;Cream Blush;Blossom;Blossom Beauty;Blush;179;Peach Bloom;All;95;2026-05-20;2024-03-19
+5;Waterproof Mascara;EyeLux;EyeLux Co;Mascara;159;Black;All;220;2027-01-11;2024-03-20
+6;Eyeshadow Palette 12;ColorBurst;ColorBurst Cosmetics;Eyeshadow;349;Nude Tones;All;70;2027-02-18;2024-03-22
+7;Lip Gloss;ShinyKiss;ShinyKiss Beauty;Lip Gloss;119;Rose Shine;All;260;2026-09-21;2024-03-25
+8;Setting Spray;FixIt;FixIt Beauty Labs;Setting Spray;179;Neutral;All;110;2027-03-01;2024-03-26
+9;BB Cream;GlowMe;GlowMe Cosmetics;BB Cream;229;Light Beige;Combination;160;2026-04-30;2024-03-28
+10;Highlighter Stick;ShimmerPro;ShimmerPro Studios;Highlighter;189;Gold Beam;All;130;2027-05-12;2024-03-29
+11;Brow Pencil;EyeLux;EyeLux Co;Brow;99;Dark Brown;All;200;2026-11-01;2024-03-30
+12;Makeup Remover Oil;SoftClean;SoftClean Beauty;Remover;149;Neutral;Sensitive;85;2026-08-15;2024-04-01
+13;Concealer Stick;PureSkin;PureSkin Labs;Concealer;159;Vanilla 01;Dry;145;2026-12-20;2024-04-03
+14;Primer Gel;BasePro;BasePro Makeup;Primer;199;Transparent;Oily;90;2026-07-11;2024-04-04
+15;Loose Setting Powder;ColorBurst;ColorBurst Cosmetics;Powder;219;Ivory;All;75;2027-01-30;2024-04-05
